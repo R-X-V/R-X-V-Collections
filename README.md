@@ -1,4 +1,4 @@
 
-[Website](https://r-x-v.github.io/)
+[Blog](https://r-x-v.github.io/)
 
 
